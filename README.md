@@ -84,4 +84,4 @@ Bash
 uvicorn main:app --reload
 
 
-GeoVigilance | Empowering Mine Safety through Intelligent Observation.
+GeoVigilance | Empowering Mine Safety through Intelligent Observations.
